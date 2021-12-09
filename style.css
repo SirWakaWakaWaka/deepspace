@@ -1,0 +1,42 @@
+html {
+    /* background-color: black; */
+    background-image: url(../deepspace/Background-image/deepspace-scaled.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+/* .box {
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid white;
+} */
+.link {
+    display: block;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 100px;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+.separated {
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/* .border {
+    border: 2px solid white;
+    padding: 20px;
+} */
